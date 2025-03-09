@@ -25,4 +25,14 @@ The **Smart Store Management System** is a **C++ console-based application** for
 
 ---
 
+## 📌 Installing GNUplot
+This project requires **GNUplot** to generate sales and inventory graphs.
+
+- **Windows**: [Download here](http://www.gnuplot.info/download.html)
+- **Linux (Ubuntu/Debian)**:  
+  ```sh
+  sudo apt install gnuplot
+  
+---
+
 ## 📂 Project Structure
