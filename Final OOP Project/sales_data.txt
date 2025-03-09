@@ -1,0 +1,8 @@
+Laptop 1000  
+Phone 750  
+Headphones 200  
+
+No_Sales 0
+No_Sales 0
+No_Sales 0
+No_Sales 0

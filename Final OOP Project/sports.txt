@@ -1,0 +1,6 @@
+Dumbbells 5kg 20.0 15
+Dumbbells 10kg 35.0 10
+Footballs Adidas 30.0 20
+Footballs Nike 35.0 15
+Treadmills Basic 500.0 5
+Treadmills Advanced 800.0 3

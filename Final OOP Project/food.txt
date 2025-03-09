@@ -1,0 +1,11 @@
+DRYFRUIT-001 DryFruits Almonds 10 25
+DRYFRUIT-002 DryFruits Cashews 12 30
+FISH-001 Fish Salmon 12.5 20
+FISH-002 Fish Tuna 10 15
+MEAT-001 Meat Chicken 8.5 25
+MEAT-002 Meat Beef 15 20
+PROCESSED-001 ProcessedFood Bread 1.5 40
+PROCESSED-002 ProcessedFood Cheese 5 25
+VEGETABLE-001 Vegetables Carrot 2 50
+VEGETABLE-002 Vegetables Broccoli 3.5 30
+FOOD-001 Food asd 2200 123

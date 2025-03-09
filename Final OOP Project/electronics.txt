@@ -1,0 +1,7 @@
+PS5-123 GamingConsoles PlayStation5 499 5
+XBOX-456 GamingConsoles XboxSeriesX 499 4
+SONY-789 Headphones Sony 100 10
+BOSE-101 Headphones Bose 150 5
+MAC-202 Laptops MacBook 999 8
+DELL-303 Laptops DellXPS 1200 6
+ASUS-404 Laptops Xenon 440 50

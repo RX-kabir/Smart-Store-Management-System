@@ -1,0 +1,5 @@
+SHONEN-001 Shonen NarutoVol1 10.0 40
+SHONEN-002 Shonen OnePieceVol1 12.0 35
+SEINEN-001 Seinen BerserkVol1 15.0 25
+MARVEL-001 Marvel SpiderMan 8.0 30
+MARVEL-002 Marvel Batman 9.0 20

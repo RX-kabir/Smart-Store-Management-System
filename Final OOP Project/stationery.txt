@@ -1,0 +1,6 @@
+PEN-001 Ballpoint Pens 1.0 100
+PEN-002 Fountain Pens 3.5 50
+NOTEBOOK-001 Spiral Notebooks 3.0 60
+NOTEBOOK-002 HardCover Notebooks 5.5 40
+ART-001 Sketchbook ArtSupplies 4.0 30
+ART-002 PaintSet ArtSupplies 7.0 20

@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1741550938 source:d:\iut\final oop project\cart.cpp
+	"Cart.h"
+	"Utility.h"
+
+1741550938 d:\iut\final oop project\cart.h
+	<iostream>
+	<vector>
+	"Product.h"
+
+1741550938 d:\iut\final oop project\product.h
+	<iostream>
+	<iomanip>
+
+1741551133 d:\iut\final oop project\utility.h
+	<iostream>
+
+1741550938 source:d:\iut\final oop project\customer.cpp
+	"Customer.h"
+	"Utility.h"
+
+1741550938 d:\iut\final oop project\customer.h
+	<iostream>
+	<vector>
+	<sstream>
+	<fstream>
+
+1741550015 source:d:\iut\final oop project\main.cpp
+	"Store.h"
+	"User.h"
+	"Utility.h"
+	"Utility.h"
+
+1741550013 d:\iut\final oop project\store.h
+	<iostream>
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<unordered_map>
+	"Product.h"
+	"Customer.h"
+	"Cart.h"
+	"Utility.h"
+
+1741550938 d:\iut\final oop project\user.h
+	<iostream>
+	<unordered_map>
+	<fstream>
+
+1741550938 source:d:\iut\final oop project\product.cpp
+	"Product.h"
+
+1741550938 source:d:\iut\final oop project\user.cpp
+	"User.h"
+	"Utility.h"
+
+1741551041 source:d:\iut\final oop project\store.cpp
+	"Store.h"
+	"Utility.h"
+
+1741551132 source:d:\iut\final oop project\utility.cpp
+	"Utility.h"
+

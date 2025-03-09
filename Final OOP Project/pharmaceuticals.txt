@@ -1,0 +1,6 @@
+PAINKILLER-001 Painkillers Aspirin 5.0 25
+PAINKILLER-002 Painkillers Ibuprofen 6.0 20
+FIRSTAID-001 FirstAid Bandages 3.0 40
+FIRSTAID-002 FirstAid Antiseptic 4.5 35
+SUPPLEMENT-001 Supplements VitaminC 8.0 30
+SUPPLEMENT-002 Supplements Omega3 10.0 25
